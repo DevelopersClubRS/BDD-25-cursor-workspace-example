@@ -4,6 +4,12 @@ Po receptu sledećeg Medium članka:
 
 https://medium.com/@vrknetha/the-ultimate-guide-to-ai-powered-development-with-cursor-from-chaos-to-clean-code-fc679973bbc4
 
+## Angular dev fora za umeravanje na noviji stil, up to date korekcije
+
+https://github.com/mgechev/resourceful-suspense/blob/main/.cursor/rules/angular-latest.md
+
+
+
 # TODO API
 
 
