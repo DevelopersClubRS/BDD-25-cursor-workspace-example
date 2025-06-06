@@ -10,7 +10,7 @@
 - **TASK-003:** Set Up Swagger for API Documentation
 
 ## In Progress
-- None
+- **TASK-004:** Add Status to TODOs
 
 ## Pending
 - None
