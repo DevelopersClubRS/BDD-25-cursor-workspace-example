@@ -1,4 +1,10 @@
+# BDD 25 - demonstracija 
+
+Po receptu sledećeg Medium članka:
+https://medium.com/@vrknetha/the-ultimate-guide-to-ai-powered-development-with-cursor-from-chaos-to-clean-code-fc679973bbc4
+
 # TODO API
+
 
 This is a simple TODO application built with Node.js, Express, TypeScript, and SQLite. It provides a RESTful API for managing a list of TODO items.
 
